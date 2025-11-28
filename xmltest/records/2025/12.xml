@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Record>
+<showTime>F</showTime>
+<displayShow>F</displayShow>
+<displayActors>F</displayActors>
+<displayGenre>T</displayGenre>
+<Codes_ss>2025</Codes_ss>
+<Language>French</Language>
+<LanguageFR>Français</LanguageFR>
+<RecordStatus>AC</RecordStatus>
+<Name>
+<ProductNameID>
+<ProductName>Construction Grade Mix -1200</ProductName>
+</ProductNameID>
+<IdentificationNumber>
+<RecordNumber>12</RecordNumber>
+<URLHTML>https://patrick-harty.github.io/xmltest/test.io?ISN=12.html</URLHTML>
+<URLPDF>https://patrick-harty.github.io/xmltest/records/12.pdf</URLPDF>
+</IdentificationNumber>
+</Name>
+<DateOfMSDS>2024-12-19</DateOfMSDS>
+<Manufacturer>
+<Name>
+<CompanyName>BuildPro Corporation</CompanyName>
+</Name>
+</Manufacturer>
+<DateModified>2025-06-12</DateModified>
+<MonthModified>2025-06-16</MonthModified>
+<status>Active</status>
+<statusFR>Actif</statusFR>
+<RegistryNumber>2025-2</RegistryNumber>
+<RegistryNumber>2025-20</RegistryNumber>
+<MovieDescription>
+<![CDATA[ Chemical compound designed for anchoring systems. Resistant to vibration and dynamic loads. Ideal for seismic zones and harsh environments. ]]>
+</MovieDescription>
+</Record>

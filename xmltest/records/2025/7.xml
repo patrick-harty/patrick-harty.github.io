@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Record>
+<showTime>F</showTime>
+<displayShow>F</displayShow>
+<displayActors>F</displayActors>
+<displayGenre>T</displayGenre>
+<Codes_ss>2025</Codes_ss>
+<Language>French</Language>
+<LanguageFR>Français</LanguageFR>
+<RecordStatus>AC</RecordStatus>
+<Name>
+<ProductNameID>
+<ProductName>Chemical Compound XR -700</ProductName>
+</ProductNameID>
+<IdentificationNumber>
+<RecordNumber>7</RecordNumber>
+<URLHTML>https://patrick-harty.github.io/xmltest/test.io?ISN=7.html</URLHTML>
+<URLPDF>https://patrick-harty.github.io/xmltest/records/7.pdf</URLPDF>
+</IdentificationNumber>
+</Name>
+<DateOfMSDS>2018-12-22</DateOfMSDS>
+<Manufacturer>
+<Name>
+<CompanyName>Construction Chemicals Co</CompanyName>
+</Name>
+</Manufacturer>
+<DateModified>2019-05-03</DateModified>
+<MonthModified>2025-10-23</MonthModified>
+<status>Active</status>
+<statusFR>Actif</statusFR>
+<RegistryNumber>2025-10</RegistryNumber>
+<RegistryNumber>2025-15</RegistryNumber>
+<MovieDescription>
+<![CDATA[ Two-part epoxy system for anchoring applications. Certified for use in critical structural elements. Meets international safety standards. ]]>
+</MovieDescription>
+</Record>
