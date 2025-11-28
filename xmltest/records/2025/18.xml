@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Record>
+<showTime>F</showTime>
+<displayShow>F</displayShow>
+<displayActors>F</displayActors>
+<displayGenre>T</displayGenre>
+<Codes_ss>2025</Codes_ss>
+<Language>French</Language>
+<LanguageFR>Français</LanguageFR>
+<RecordStatus>AC</RecordStatus>
+<Name>
+<ProductNameID>
+<ProductName>Premium Epoxy Compound -1800</ProductName>
+</ProductNameID>
+<IdentificationNumber>
+<RecordNumber>18</RecordNumber>
+<URLHTML>https://patrick-harty.github.io/xmltest/test.io?ISN=18.html</URLHTML>
+<URLPDF>https://patrick-harty.github.io/xmltest/records/18.pdf</URLPDF>
+</IdentificationNumber>
+</Name>
+<DateOfMSDS>2016-04-05</DateOfMSDS>
+<Manufacturer>
+<Name>
+<CompanyName>BuildPro Corporation</CompanyName>
+</Name>
+</Manufacturer>
+<DateModified>2016-04-23</DateModified>
+<MonthModified>2025-07-12</MonthModified>
+<status>Under Review</status>
+<statusFR>En cours d'examen</statusFR>
+<RegistryNumber>2025-2</RegistryNumber>
+<RegistryNumber>2025-17</RegistryNumber>
+<RegistryNumber>2025-9</RegistryNumber>
+<RegistryNumber>2025-13</RegistryNumber>
+<RegistryNumber>2025-9</RegistryNumber>
+<MovieDescription>
+<![CDATA[ Premium grade adhesive for industrial installations. Low shrinkage ensures dimensional stability. Excellent for precision anchoring requirements. ]]>
+</MovieDescription>
+</Record>

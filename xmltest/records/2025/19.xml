@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Record>
+<showTime>F</showTime>
+<displayShow>F</displayShow>
+<displayActors>F</displayActors>
+<displayGenre>T</displayGenre>
+<Codes_ss>2025</Codes_ss>
+<Language>French</Language>
+<LanguageFR>Français</LanguageFR>
+<RecordStatus>AC</RecordStatus>
+<Name>
+<ProductNameID>
+<ProductName>Advanced Bonding Solution -1900</ProductName>
+</ProductNameID>
+<IdentificationNumber>
+<RecordNumber>19</RecordNumber>
+<URLHTML>https://patrick-harty.github.io/xmltest/test.io?ISN=19.html</URLHTML>
+<URLPDF>https://patrick-harty.github.io/xmltest/records/19.pdf</URLPDF>
+</IdentificationNumber>
+</Name>
+<DateOfMSDS>2017-09-01</DateOfMSDS>
+<Manufacturer>
+<Name>
+<CompanyName>Construction Chemicals Co</CompanyName>
+</Name>
+</Manufacturer>
+<DateModified>2017-11-26</DateModified>
+<MonthModified>2025-10-06</MonthModified>
+<status>Active</status>
+<statusFR>Actif</statusFR>
+<RegistryNumber>2025-17</RegistryNumber>
+<RegistryNumber>2025-13</RegistryNumber>
+<RegistryNumber>2025-1</RegistryNumber>
+<RegistryNumber>2025-7</RegistryNumber>
+<RegistryNumber>2025-20</RegistryNumber>
+<MovieDescription>
+<![CDATA[ Professional bonding solution with proven track record. Suitable for retrofitting and new construction. Meets stringent quality control standards. ]]>
+</MovieDescription>
+</Record>
